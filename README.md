@@ -1,38 +1,65 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Samet Besni: Engineer, Data Analyst, Builder" src="assets/header-light.svg" width="100%">
-</picture>
-<br><br>
+<img src="assets/profile-banner.svg" alt="Samet Besni — Data Analyst | Python · SQL · Tableau — Turning Data into Clear Insights" width="100%">
 
-I'm an engineer who turns messy data into clear dashboards and builds small, careful tools in Python.
-Lately I also work with AI agents and build a strategy game in Godot.
+Hello! I'm Samet, an Electrical-Electronics Engineering graduate focused on data analysis and visualization.
+I use Python, SQL, Excel and Tableau to clean data, explore trends, and turn findings into clear dashboards and practical insights.
+Here you'll find selected data analysis case studies and software projects.
 
-**Open to freelance data work:** cleaning, analysis and KPI dashboards in Excel or Tableau.
-[Hire me on Upwork](https://www.upwork.com/freelancers/~01d6268cbafe0854c2)
+> **Türkçe:** Merhaba, ben Samet. Elektrik-Elektronik Mühendisliği mezunuyum ve veri analizi ile görselleştirmeye odaklanıyorum.
+> Python, SQL, Excel ve Tableau kullanarak verileri temizliyor, analiz ediyor ve bulguları anlaşılır panolara dönüştürüyorum.
+> Burada seçilmiş veri analizi çalışmalarıma ve yazılım projelerime ulaşabilirsiniz.
 
-> **Türkçe:** Mühendisim. Dağınık veriyi anlaşılır panolara dönüştürüyor, Python ile küçük ve özenli araçlar yazıyorum.
-> Yapay zekâ ajanlarıyla çalışıyor, Godot ile bir strateji oyunu geliştiriyorum.
-> Veri temizleme, analiz ve KPI panosu işleri için Upwork üzerinden ulaşabilirsiniz.
+🌐 **Portfolio:** [digital-universe-6p0.pages.dev](https://digital-universe-6p0.pages.dev/) — case studies, an interactive data lab and an SQL challenge, in English and Turkish.
 
-### Featured work
+### Featured Projects
 
-| Project | What it is | Built with |
-|---|---|---|
-| [E-Commerce Sales Dashboard](https://public.tableau.com/views/E-CommerceSalesDashboard_17764228825900/E-CommerceSalesDashboard) | ~100k marketplace orders cleaned and joined; revenue, top products and seasonality | Python, pandas, Tableau |
-| [Construction Cost Dashboard](https://public.tableau.com/views/Construction-Dashboard/Dashboard1) | Where a construction budget actually goes, by material and phase | Python, Tableau |
-| [WinCare Manager](https://github.com/sametbesni/WinCare-Manager) | Offline Windows maintenance app. Dry-run by default, every change backed up and reversible | Python, PySide6, SQLite |
-| [Ajan Borsa](https://github.com/sametbesni/ajan-borsa) | One local Turkish dashboard for three open-source market agents (BIST and US) | Python, MCP, vectorbt |
-| **Köy** <sub>(working title, in progress)</sub> | Original medieval economy strategy game for mobile: roads, carriers, production chains, hunger. 108 automated tests | Godot 4, GDScript |
+<p>
+  <a href="https://digital-universe-6p0.pages.dev/en/projects/ecommerce-sales-analysis"><img src="assets/projects/ecommerce.svg" alt="E-Commerce Sales Analysis — case study" width="49%"></a>
+  <a href="https://digital-universe-6p0.pages.dev/en/projects/rfm-customer-segmentation"><img src="assets/projects/rfm.svg" alt="Customer Segmentation (RFM) — case study" width="49%"></a>
+</p>
+<p>
+  <a href="https://digital-universe-6p0.pages.dev/en/projects/construction-cost-analysis"><img src="assets/projects/construction.svg" alt="Construction Cost Analysis — case study" width="49%"></a>
+  <a href="https://digital-universe-6p0.pages.dev/en/projects/wincare-manager"><img src="assets/projects/wincare.svg" alt="WinCare Manager — case study" width="49%"></a>
+</p>
 
-### Latest on GitHub
-<!-- repos:start -->
-[WinCare-Manager](https://github.com/sametbesni/WinCare-Manager) - 2026-11-20<br><sub>Windows 10/11 için çevrimdışı, güvenli bakım ve yönetim aracı (Pyth...</sub>
+- **E-Commerce Sales Analysis** — about 100K orders from the Olist Brazilian e-commerce dataset, cleaned and joined to analyse revenue, top products and seasonality. [Case study](https://digital-universe-6p0.pages.dev/en/projects/ecommerce-sales-analysis) · [Dashboard](https://public.tableau.com/app/profile/samet.besni/viz/E-CommerceSalesDashboard_17764228825900/E-CommerceSalesDashboard)
+- **Customer Segmentation (RFM)** — Recency, Frequency and Monetary scores combined into VIP, Loyal, New and Other segments; the case study lists the method's current limitations (order-level customer IDs) and a person-level revision is planned. [Case study](https://digital-universe-6p0.pages.dev/en/projects/rfm-customer-segmentation) · [Dashboard](https://public.tableau.com/app/profile/samet.besni/viz/Customer-Segmentation-Dashboard-RFMAnalysis/CustomerSegmentationDashboardRFMAnalysis)
+- **Construction Cost Analysis** — a sample construction cost sheet analysed by concrete, steel, labour, electrical and mechanical items. [Case study](https://digital-universe-6p0.pages.dev/en/projects/construction-cost-analysis) · [Dashboard](https://public.tableau.com/app/profile/samet.besni/viz/Construction-Dashboard/Dashboard1)
+- **WinCare Manager** — offline, safe maintenance tool for Windows 10/11; dry-run by default, every change backed up and reversible. [Repository](https://github.com/sametbesni/WinCare-Manager) · [Case study](https://digital-universe-6p0.pages.dev/en/projects/wincare-manager)
 
-[ajan-borsa](https://github.com/sametbesni/ajan-borsa) - 2026-11-20<br><sub>Üç açık kaynak borsa ajanını (borsa-mcp, day-trader-skill, vectorbt...</sub>
-<!-- repos:end -->
+### Skills
 
-### Toolbox
+**Data & Analytics**
 
-<img src="https://skillicons.dev/icons?i=python,postgres,js,ts,react,godot,git,githubactions&theme=dark" alt="Python, SQL, JavaScript, TypeScript, React, Godot, Git, GitHub Actions" height="40">
+<p>
+  <img src="assets/skills/python.svg" alt="Python" height="36">
+  <img src="assets/skills/pandas.svg" alt="pandas" height="36">
+  <img src="assets/skills/sql.svg" alt="SQL" height="36">
+  <img src="assets/skills/postgresql.svg" alt="PostgreSQL" height="36">
+  <img src="assets/skills/dbeaver.svg" alt="DBeaver" height="36">
+  <img src="assets/skills/excel.svg" alt="Excel" height="36">
+  <img src="assets/skills/tableau.svg" alt="Tableau" height="36">
+  <img src="assets/skills/power-bi.svg" alt="Power BI" height="36">
+</p>
 
-<sub>Also: pandas, Excel, Tableau, Claude Code. The list above refreshes daily with a <a href=".github/workflows/update-readme.yml">GitHub Action</a>.</sub>
+**Development**
+
+<p>
+  <img src="assets/skills/git.svg" alt="Git" height="36">
+  <img src="assets/skills/html.svg" alt="HTML" height="36">
+  <img src="assets/skills/css.svg" alt="CSS" height="36">
+  <img src="assets/skills/javascript.svg" alt="JavaScript" height="36">
+  <img src="assets/skills/react.svg" alt="React" height="36">
+  <img src="assets/skills/pyside6.svg" alt="PySide6" height="36">
+  <img src="assets/skills/sqlite.svg" alt="SQLite" height="36">
+</p>
+
+### Education & Certificate
+
+- **Erciyes University** — Electrical-Electronics Engineering, 2019
+- **GoIT** — Data Analytics certificate, 2025 ([PDF](https://digital-universe-6p0.pages.dev/certificates/goit-data-analytics.pdf))
+
+### Contact
+
+[Portfolio](https://digital-universe-6p0.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/samet-besni/) · [Upwork](https://www.upwork.com/freelancers/~01d6268cbafe0854c2) · [Email](mailto:sametbesni@gmail.com)
+
+<sub>Open to freelance data work: cleaning, analysis and KPI dashboards. · Veri temizleme, analiz ve KPI panosu işleri için Upwork veya e-posta ile ulaşabilirsiniz.</sub>
